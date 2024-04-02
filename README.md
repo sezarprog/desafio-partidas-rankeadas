@@ -47,5 +47,9 @@ Ao final deve se exibir uma mensagem:
 ## O CÓDIGO
 > - [Esta no arquivo prog-calc-rank
 .js.](https://github.com/sezarprog/desafio-partidas-rankeadas/blob/6af94cec80e9e854afe93c2fdeb5957de514df07/prog-calc-rank.js)
-## Conectar!
+
+> ## Alguns testes realizados
+![image](https://github.com/sezarprog/desafio-partidas-rankeadas/blob/13d100cb9cc17e15ee0829f8bf8c14558e4f1001/telas/1-Captura%20de%20tela%202024-04-01%20231636.gif)
+
+## Vamos Conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julioduart/)
