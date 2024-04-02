@@ -51,5 +51,9 @@ Ao final deve se exibir uma mensagem:
 > ## Alguns testes realizados
 ![image](https://github.com/sezarprog/desafio-partidas-rankeadas/blob/13d100cb9cc17e15ee0829f8bf8c14558e4f1001/telas/1-Captura%20de%20tela%202024-04-01%20231636.gif)
 
+![image](https://github.com/sezarprog/desafio-partidas-rankeadas/blob/aec16ebe624429002eb152c96ae24c6361ef72b8/telas/2-Captura%20de%20tela%202024-04-01%20231807.gif)
+
+![image](https://github.com/sezarprog/desafio-partidas-rankeadas/blob/aec16ebe624429002eb152c96ae24c6361ef72b8/telas/3-Captura%20de%20tela%202024-04-01%20231903.gif)
+
 ## Vamos Conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julioduart/)
