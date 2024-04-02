@@ -31,13 +31,13 @@ Instruções para entrega
 Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
 depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
 
-Se vitórias for menor do que 10 = Ferro
-Se vitórias for entre 11 e 20 = Bronze
-Se vitórias for entre 21 e 50 = Prata
-Se vitórias for entre 51 e 80 = Ouro
-Se vitórias for entre 81 e 90 = Diamante
-Se vitórias for entre 91 e 100= Lendário
-Se vitórias for maior ou igual a 101 = Imortal
+- Se vitórias for menor do que 10 = Ferro
+- Se vitórias for entre 11 e 20 = Bronze
+- Se vitórias for entre 21 e 50 = Prata
+- Se vitórias for entre 51 e 80 = Ouro
+- Se vitórias for entre 81 e 90 = Diamante
+- Se vitórias for entre 91 e 100= Lendário
+- Se vitórias for maior ou igual a 101 = Imortal
 
 ## Saída
 
@@ -45,7 +45,7 @@ Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
 
 ## O CÓDIGO
-> - [Esta no arquivo prog-calc-rank
+ - [Esta no arquivo prog-calc-rank
 .js.](https://github.com/sezarprog/desafio-partidas-rankeadas/blob/6af94cec80e9e854afe93c2fdeb5957de514df07/prog-calc-rank.js)
 
 > ## Alguns testes realizados
