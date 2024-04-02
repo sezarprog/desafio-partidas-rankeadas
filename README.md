@@ -1,6 +1,6 @@
 <h1>
-    <a href="[https://tenhaexito.blogspot.com/2024/03/imagens-projetos-dio.html](https://github.com/sezarprog/desafio-nivel-heroi/blob/54d2a3f6ab1100692a6bb088af747d8b8963e88c/logo%20logprog.webp)">
-     <img  align="left" width="90px" src="logo logprog.webp"></a>
+    <a href="https://github.com/sezarprog/imagens/blob/c3a1a07ee5501c00d0ef9aa94072eaebad1799aa/logo%20logprog.webp">
+     <img  align="left" width="90px" src="https://github.com/sezarprog/imagens/blob/c3a1a07ee5501c00d0ef9aa94072eaebad1799aa/logo%20logprog.webp"></a>
     <span>Formação Lógica de Programação</span>
 </h1>
 
