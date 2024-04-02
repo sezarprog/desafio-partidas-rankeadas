@@ -45,8 +45,7 @@ Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
 
 ## O CÓDIGO
- ## - [Esta no arquivo prog-calc-rank
-.js.](https://github.com/sezarprog/desafio-partidas-rankeadas/blob/6af94cec80e9e854afe93c2fdeb5957de514df07/prog-calc-rank.js)
+ ## - [Esta no arquivo prog-calc-rank.js](https://github.com/sezarprog/desafio-partidas-rankeadas/blob/6af94cec80e9e854afe93c2fdeb5957de514df07/prog-calc-rank.js)
 
 > ## Alguns testes realizados
 ![image](https://github.com/sezarprog/desafio-partidas-rankeadas/blob/13d100cb9cc17e15ee0829f8bf8c14558e4f1001/telas/1-Captura%20de%20tela%202024-04-01%20231636.gif)
